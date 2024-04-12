@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\TIPOSDESAFIO\bin\Debug\net5.0\TIPOSDESAFIO.exe
+C:\Users\DELL\source\repos\TIPOSDESAFIO\bin\Debug\net5.0\TIPOSDESAFIO.deps.json
+C:\Users\DELL\source\repos\TIPOSDESAFIO\bin\Debug\net5.0\TIPOSDESAFIO.runtimeconfig.json
+C:\Users\DELL\source\repos\TIPOSDESAFIO\bin\Debug\net5.0\TIPOSDESAFIO.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\TIPOSDESAFIO\bin\Debug\net5.0\TIPOSDESAFIO.dll
+C:\Users\DELL\source\repos\TIPOSDESAFIO\bin\Debug\net5.0\ref\TIPOSDESAFIO.dll
+C:\Users\DELL\source\repos\TIPOSDESAFIO\bin\Debug\net5.0\TIPOSDESAFIO.pdb
+C:\Users\DELL\source\repos\TIPOSDESAFIO\obj\Debug\net5.0\TIPOSDESAFIO.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\TIPOSDESAFIO\obj\Debug\net5.0\TIPOSDESAFIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\TIPOSDESAFIO\obj\Debug\net5.0\TIPOSDESAFIO.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\TIPOSDESAFIO\obj\Debug\net5.0\TIPOSDESAFIO.AssemblyInfo.cs
+C:\Users\DELL\source\repos\TIPOSDESAFIO\obj\Debug\net5.0\TIPOSDESAFIO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\TIPOSDESAFIO\obj\Debug\net5.0\TIPOSDESAFIO.dll
+C:\Users\DELL\source\repos\TIPOSDESAFIO\obj\Debug\net5.0\ref\TIPOSDESAFIO.dll
+C:\Users\DELL\source\repos\TIPOSDESAFIO\obj\Debug\net5.0\TIPOSDESAFIO.pdb
+C:\Users\DELL\source\repos\TIPOSDESAFIO\obj\Debug\net5.0\TIPOSDESAFIO.genruntimeconfig.cache
